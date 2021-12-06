@@ -13,4 +13,4 @@ Software Components-
 1) Arduino IDE
 2) Blynk App (Available in Play Store)
 
-Implementation video- 
+Implementation video- https://drive.google.com/file/d/1_DpcmsuZa7a-MRHbaWsMt3hGy3yzNHvY/view?usp=sharing
